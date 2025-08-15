@@ -7,4 +7,5 @@ links: [/ProofAndProcess/_Index/Engineering Guardrails & Templates.md]
 id: T-SnapProof-branded-pdf-01
 owner: tech-lead
 ---
+Dry run check: OK
 Summary: Make a branded before/after PDF for a single job (MVP).
